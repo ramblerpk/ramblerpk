@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on [Ai Powered ChatBot](https://github.com/ramblerpk/AI-Powered-Chatbot)
-
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **Ai powered ChatBot**
 
